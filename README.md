@@ -2,5 +2,5 @@ To send the emails using python you need to do only one change in your google ac
 
 1. Enable less secure apps setting in google account
    Below is the link for the same
-   https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTFUYXZDWlU1YUJUN1BKWFpwUlZmV2x5MEdIUXxBQ3Jtc0tsS1JRWHhCM2lBTmwtVHRpVVJpZGtNTHY5cUVlWkl5akU0Y2RFMkZ3VVB5bkNMWmZ3Qm9hSmVWQWZSSGJkTnE1Z2hpOFA3bEMydlZqakI5b2xsWU1ranZUMHZNWmFSWm5TczhuVkJSUWRMZHZOMmlOUQ&q=https%3A%2F%2Fmyaccount.google.com%2Flesssecureapps
+   https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4PuLg9lphFPX6eNnDk1Y6aocN9y9oGVTmdSyRzwHMTqz35GdzSAbugPwn0C1t6HcG4ZTpdxMI7qPtAPK0uzjYp_prqILw
 
